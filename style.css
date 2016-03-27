@@ -667,7 +667,7 @@ font-weight: 600;
 			height: 100%;
 			background-color: black;
 			opacity: 0.75; 
-			z-index: 99;
+			z-index: 999999999;
 			display:none;
 		
 }
