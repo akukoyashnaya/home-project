@@ -651,7 +651,7 @@ font-weight: 600;
 			position: absolute;
 			top: 30px;
 			left: 25%;
-			z-index: 9999;
+			z-index: 9999999991;
 			background-color: white;
 			opacity: 1;
 			color: black;
